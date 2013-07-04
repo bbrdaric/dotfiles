@@ -1,0 +1,5 @@
+// Sublime FileDiffs - https://github.com/colinta/SublimeFileDiffs
+{
+	"open_in_sublime": false,
+	"cmd": ["tortoisemerge", "$file1", "$file2"]
+}

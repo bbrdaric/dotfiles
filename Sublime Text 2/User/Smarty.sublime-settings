@@ -1,0 +1,7 @@
+// Sublime Text Smarty - https://github.com/amitsnyderman/sublime-smarty
+{
+	"extensions":
+	[
+		"tpl"
+	]
+}

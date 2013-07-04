@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"EncodingHelper",
+		"FileDiffs",
+		"Highlight-Mixed-Whitespace",
+		"Package Control",
+		"Smarty",
+		"SublimeLinter",
+		"SublimeTODO",
+		"Terminal",
+		"Tortoise",
+		"Unicode Character Highlighter",
+		"VCS Gutter"
+	]
+}
